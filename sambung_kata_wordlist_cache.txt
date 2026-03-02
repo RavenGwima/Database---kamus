@@ -9902,6 +9902,7 @@ return {
   "ifrit",
   "iftar",
   "iftitah",
+  "ifumi"
   "iga",
   "igal",
   "igau",
